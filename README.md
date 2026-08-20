@@ -17,7 +17,7 @@ Converting them requires knowing how they differ. The brief as given "how do ann
 4. How does riding change across the year?
 5. Where do their rides start?
 
-**What this data cannot answer.** Each row is a trip, not a person. There are no rider IDs, so a rider taking fifty trips is indistinguishable from fifty riders taking one each — ride counts are not rider counts. There is no revenue or pricing data, no demographics, and no way to identify a casual rider who later became a member. Every conclusion below is about the *pattern of rides*, not about individual people, and the recommendations are written to respect that limit.
+**What this data cannot answer.** Each row is a trip, not a person. There are no rider IDs, so a rider taking fifty trips is indistinguishable from fifty riders taking one each. Ride counts are not rider counts. There is no revenue or pricing data, no demographics, and no way to identify a casual rider who later became a member. Every conclusion below is about the *pattern of rides*, not about individual people, and the recommendations are written to respect that limit.
 
 ## Prepare
 
