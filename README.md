@@ -3,6 +3,7 @@
 An analysis of 5.7 million bike-share trips, June 2025 to May 2026.
 
 **Tools:** BigQuery (SQL), Power BI
+
 **Data:** Divvy public trip data, Chicago, used under the Divvy Data License Agreement
 
 ## Ask
