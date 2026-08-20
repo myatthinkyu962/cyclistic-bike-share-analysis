@@ -66,15 +66,17 @@ Five queries, five findings.
 **Day of week.** The two groups ride on opposite days. Members ride steadily Monday to Friday and drop away at the weekend, while casual riding peaks on Saturday, 84% above its Tuesday low.
 Ride length moves the same way. Casual rides stretch from 16 minutes midweek to 22 on Sunday, while member rides hold between 12 and 13 minutes all week. Weekday riding of a consistent length is the pattern of a commute; longer trips concentrated at weekends are the pattern of leisure.
 
+![Rides by day of week](day_of_week.png)
 
 **Time of day.** Members ride at commuting hours. Volume peaks at 8am and again at 5pm, with a clear trough between the two. Casual riding has no morning peak at all, only a steady climb through the day to a single 5pm high.
-
+![Rides by hour of day](time_of_day.png)
 **Seasonality.** Casual riding is heavily seasonal and member riding is not. Casual volume runs 13.6 times higher in August than January, while members keep riding through the winter. 70% of casual riding falls in the five months from May to September, with the sharp drop coming after October.
-
+![Rides by month](seasonality.png)
 **Starting stations.** The two groups start in different places, with no station appearing in both top tens. Casual rides begin at named destinations along the lakefront: Navy Pier, Millennium Park, the Shedd Aquarium. Member rides begin at street intersections in the West Loop and Near North Side, with Clinton Street appearing three times alongside Union Station. Casual riding also concentrates much harder: Navy Pier alone runs 72% above the busiest member station. A few places account for most casual starts, which makes that audience reachable in a way members are not.
 
 I checked the station coordinates on a map rather than inferring the area from the station names.
 
+![Top ten starting stations by rider type](top_stations.png)
 **Together:** Five independent measures give one consistent picture. Members use Cyclistic as transport: short, repeated, weekday journeys from rail terminals and residential areas, sustained through winter. Casual riders use it for recreation: longer, weekend, summer trips concentrated on the lakefront.
 
 
